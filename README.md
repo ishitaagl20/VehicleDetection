@@ -1,4 +1,4 @@
-# VehicleDetection🚗
+# Vehicle Detection🚗
 Exploratory project into Vehicle Detection.
 
 Performed an Exploratory Analysis.
